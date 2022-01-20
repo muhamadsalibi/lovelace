@@ -197,7 +197,7 @@ are friends or not) or numeric (e.g., distances). Graph theory allows us to
 express in abstract the set of elements $$V$$ called *vertices* and their
 relationships $$E$$ called *edges* which together make up a graph $$G=(V,E)$$.
 The set of edges is a subset of the cardinal product of the vertices
-$$E\subseteq V\times V$$. If there is a relationship between two vertices $$e\in
+$$E\subseteq V\times V$$. If there is a relationship between two vertices $$u\in
 V$$ and $$v\in V$$, then $$(u,v)\in E$$.
 
 {% maincolumn 'assets/img/graph-examples.svg' 'Example graphs. Graph A is a
